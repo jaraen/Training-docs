@@ -5,6 +5,12 @@ These docs where prepared for a 6 days immersion training in mobile apps develop
 
 This training is focused on Titanium, but also includes JavaScript methodology, design strategy and specific platform issues.
 
+I use a lot of samples and real code to demonstrate each concept in classroom. Not all of these samples are in the slides and most of them are 
+developed "in real time" for the class. Often the slides serves me as a guideline and the explanations are done over the screen. Every tutor should
+have their own samples and resources, so DO NOT LIMIT to the contents of these slides and extend as you consider. Use them as what they are, just a guideline
+to help you speak about all you want to speak.
+
+
 The Docs
 --------
 
@@ -20,7 +26,7 @@ TODO
 -----
 
 - Translate from spanish to other languages
-- Continue improving its contents...
+- Continue improving its contents... 
 
 Credits
 -------
@@ -29,7 +35,11 @@ Credits
 - Day 1 is basically a spanish translation from Titans MeetupPack, extended with some custom contents.
 - Rest of documents are mainly original content from my own experience.
 
-Javier Rayon, javier at criteriastudio dot com, www.criteriastudio.com.
-Titan user
+Author: Javier Rayon, Sept. 2011.
+
+mail: javier at criteriastudio dot com
+
+www.criteriastudio.com.
+
 DevLink: http://developer.appcelerator.com/devlink/profile/1190171
 
